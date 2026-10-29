@@ -89,7 +89,7 @@ Through these projects, I developed my skills in Python, data cleaning, explorat
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/ASamasha/codealpha_tasks.git
    ```
 
 2. Navigate to the project directory:
